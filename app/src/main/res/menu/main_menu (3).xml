@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item android:title="Add"
+        android:id="@+id/menuAddExpense"
+        app:showAsAction="always"/>
+
+    <item android:title="Remove"
+        android:id="@+id/menuRemoveExpense"
+        app:showAsAction="always"/>
+
+    <item android:title="Contact Us"
+        android:id="@+id/menuContactUs"/>
+
+    <item android:title="Feedback"
+        android:id="@+id/menuFeedback"/>
+
+    <item android:title="About Us"
+        android:id="@+id/menuAboutUs"/>
+
+</menu>
